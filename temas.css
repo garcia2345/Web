@@ -1,75 +1,419 @@
-.contenedor{ 
+.contenedor{                                 
+
+
+
     width: 100%;
     height: 1400px;
-    background-color: rgb(247, 0, 255);
+background-color: blueviolet;
+ 
 }
 .encabezado{
     width: 100%;
-    height: 150px;
-    background-color: rgb(0, 235, 243);
-    text-align: center;
-    font-size: 35px;
+    height: 250px;
+    background-color: crimson;
 }
 .menu{
-    width: 100%;
-    height: 80px;
-    background-color: rgb(255, 213, 252);
-    display: flex;
-
-}
-.tecnologia{
-
-    width: 100px;
-    height: 78px;
-    background-color: beige;
-    margin: 2px;
-    }
-    
-    .ingles{
-        width: 100px;
-        height: 78px;
-        background-color: burlywood;
-        margin: 2px;
-    }
-    
-    .biologia{
-        width: 100px;
-        height: 78px;
-        background-color: ghostwhite;
-        margin: 2px;
-    }
-    
-    .sociales{
-        width: 100px;
-        height: 78px;
-        background-color: indianred;
-        margin: 2px;
-    }
-    
-    .matematicas{
-        width: 100px;
-        height: 78px;
-        background-color: mediumpurple;
-        margin: 2px;
-    }
-.contenedor2{
-    display: flex;
 width: 100%;
-height: 1200px;
-background-color:blueviolet ;
+height: 80px;
+background-color: rgb(33, 206, 168);
+
+
 }
-.izquierda{
-    width: 20%;
+.contenedor2{
+
+    width: 100%;
     height: 1200px;
-    background-color: rgb(0, 247, 255);
+    background-color: darkgoldenrod;
+    
 }
-.centro{
-width: 60%;
-height: 1200px;
-background-color: rgb(81, 255, 0);
-}
-.derecho{
-    width: 20%;
+.izquierdo{
+    width: 60%;
     height: 1200px;
-    background-color: rgb(255, 20, 20);
+    background-color: darkred;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
