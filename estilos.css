@@ -108,37 +108,14 @@
         
         
         
-        }
-
-        .imagentecno3{
-        
-         
-        
-            background-repeat: no-repeat;
-            
-            float:left;
-            
-            height: 200px;
-            
-            width: 260px;
-            
-            margin-left: 5px;
-            
-            margin-right:5px;
-            
-            background-image: url("");
-            
-            }
-            
-            
-            
+        }            
             .textotecno3{
             
             text-align: justify;
             
-            color: rgb(48, 192, 67);
+            color: rgb(143, 255, 158);
             
-            font-size: 20px;
+            font-size: 27px;
             
             
             
@@ -205,9 +182,9 @@
                 
                 float:left;
                 
-                height: 2000px;
+                height: 430px;
                 
-                width: 2000px;
+                width: 330px;
                 
                 margin-left: 10px;
                 
@@ -225,7 +202,7 @@
                 
                 color: rgb(172, 245, 245);
                 
-                font-size: 10px;
+                font-size: 23px;
                 
                 
                 
@@ -292,7 +269,7 @@
                     
                     height: 200px;
                     
-                    width: 260px;
+                    width: 350px;
                     
                     margin-left: 10px;
                     
