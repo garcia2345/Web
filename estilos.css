@@ -110,6 +110,43 @@
         
         }
 
+        .imagentecno3{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("");
+            
+            }
+            
+            
+            
+            .textotecno3{
+            
+            text-align: justify;
+            
+            color: rgb(48, 192, 67);
+            
+            font-size: 20px;
+            
+            
+            
+            }
+    
+
+
+
         .contenido{
 
             height: 280px;
@@ -152,13 +189,49 @@
             
             text-align: justify;
             
-            color: rgb(172, 245, 245);
+            color: rgb(95, 206, 206);
             
             font-size: 10px;
             
             
             
             }
+
+            .imagensociales3{
+            
+             
+            
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 2000px;
+                
+                width: 2000px;
+                
+                margin-left: 10px;
+                
+                margin:  10px;
+                
+                background-image: url("Captura.PNG");
+                
+                }
+                
+                
+                
+                .textosociales3{
+                
+                text-align: justify;
+                
+                color: rgb(172, 245, 245);
+                
+                font-size: 10px;
+                
+                
+                
+                }
+
+
             .contenido{
 
                 height: 280px;
@@ -208,6 +281,39 @@
                 
                 
                 }
+
+                .imagenmate3{
+                
+                 
+                
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 10px;
+                    
+                    margin-right:10px;
+                    
+                    background-image: url("diferenciadecuadrado.webp");
+                    
+                    }
+                    
+                    
+                    
+                    .textomate3{
+                    
+                    text-align: justify;
+                    
+                    color: rgb(65, 209, 219);
+                    
+                    font-size: 15px;
+
+                    }
+
                 .contenido{
 
                     height: 280px;
